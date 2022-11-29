@@ -1,6 +1,6 @@
 # NOVEL2GRAPH
 ## A workflow to extract Knowledge Graph from literary text
-### By [Mellace Simone](https://github.com/mellacsi), [Kanjirangat Vani](https://github.com/vanikanjirangat) and [Antonucci Alessandro](https://github.com/alessandroantonucci)
+(https://github.com/alessandroantonucci)
 This pipeline is a semi-supervised algorithm, which receives a book as input and it discovers: the main characters, the main relations between characters, a Knowledge Graph including these information and more interesting material.
 As final result, you will obtain an interface with which you can monitor and explore your results.
 
