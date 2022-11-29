@@ -1,0 +1,15 @@
+matplotlib
+numpy
+fuzzywuzzy
+python-Levenshtein
+gensim
+seaborn
+graphviz
+pandas
+pattern
+pytorch-pretrained-bert
+Unidecode
+sentence-transformers
+tensorflow
+sklearn
+spacy
